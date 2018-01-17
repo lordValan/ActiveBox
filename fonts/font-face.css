@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'cardoitalic';
+    src: url('cardo-italic-webfont.woff2') format('woff2'),
+         url('cardo-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ralewaybold';
+    src: url('raleway-bold-webfont.woff2') format('woff2'),
+         url('raleway-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ralewaylight';
+    src: url('raleway-light-webfont.woff2') format('woff2'),
+         url('raleway-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ralewayregular';
+    src: url('raleway-regular-webfont.woff2') format('woff2'),
+         url('raleway-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ralewaysemibold';
+    src: url('raleway-semibold-webfont.woff2') format('woff2'),
+         url('raleway-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'open_sansbold';
+    src: url('opensans-bold-webfont.woff2') format('woff2'),
+         url('opensans-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('opensans-regular-webfont.woff2') format('woff2'),
+         url('opensans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
