@@ -3,6 +3,8 @@
 *.fon
 *.otf
 *.ttf
+*.woff
+*.woff2
 
 ### Images ###
 # JPEG
